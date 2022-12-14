@@ -1,5 +1,5 @@
 # SmartMaintenanceProject
-/** Smart Maintenance Portal is the user based web application which is used to
+Smart Maintenance Portal is the user based web application which is used to
 solve the problems in our day to day life or problems in society such as water related
 issue, street light issue, road related issue, etc. specially the problems which comes
 under the Government. this problems don’t get solved easily and it takes much time to
@@ -12,4 +12,4 @@ the user and has to solve the problem registered by the user. In User panel the 
 registers the complaint faced by him in his society or any area and can register the
 complaint according to the specific department. Rather than this the application consists
 extra features also. This all the problems comes under the Government and this
-problems can be solved fast and in efficient way **/ 
+problems can be solved fast and in efficient way  
