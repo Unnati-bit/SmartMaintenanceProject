@@ -99,4 +99,14 @@
     <servlet-name>LoginDep</servlet-name>
     <url-pattern>/LoginDep</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>depcomment</display-name>
+    <servlet-name>depcomment</servlet-name>
+    <servlet-class>com.smart.maint.depcomment</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>depcomment</servlet-name>
+    <url-pattern>/depcomment</url-pattern>
+  </servlet-mapping>
 </web-app>
